@@ -1,6 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_my_ui/widgets/button_style.dart';
-import 'package:flutter_my_ui/widgets/color_scheme.dart';
+import 'package:my_ui/widgets.dart';
 
 class Theme extends ChangeNotifier {
   final ColorScheme colorScheme;

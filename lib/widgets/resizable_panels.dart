@@ -1,9 +1,9 @@
 import 'dart:math';
 
-import 'package:collection/collection.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_my_ui/widgets/theme.dart';
+import 'package:my_ui/widgets.dart';
 import 'package:provider/provider.dart';
+import 'package:collection/collection.dart';
 
 class _ResizablePanelLayoutDelegate extends MultiChildLayoutDelegate {
   final Axis axis;

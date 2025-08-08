@@ -1,6 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_my_ui/widgets/theme.dart';
-import 'package:flutter_my_ui/widgets/theme_provider.dart';
+import 'package:my_ui/widgets.dart';
 
 class App extends StatelessWidget {
   final String title;

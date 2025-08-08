@@ -1,7 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_my_ui/widgets/clickable.dart';
-import 'package:flutter_my_ui/widgets/theme.dart';
-import 'button_style.dart';
+import 'package:my_ui/widgets.dart';
 import 'package:provider/provider.dart';
 
 class Button extends StatelessWidget {
